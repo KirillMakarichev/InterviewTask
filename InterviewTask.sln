@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewTask", "InterviewTask\InterviewTask.csproj", "{26D8EC49-4B66-40D9-BC51-04FD8A392089}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26D8EC49-4B66-40D9-BC51-04FD8A392089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D8EC49-4B66-40D9-BC51-04FD8A392089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D8EC49-4B66-40D9-BC51-04FD8A392089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D8EC49-4B66-40D9-BC51-04FD8A392089}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
